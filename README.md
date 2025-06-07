@@ -4,3 +4,6 @@
   <img src="https://github.com/user-attachments/assets/c3a03c30-4c7d-4d7d-a6a1-dbbb13db530d" alt="kobayashi" width="800" height="400">
 </p>
 
+<p align="center">
+ i am ricardo moreno a web front end student passionate about exploring and creating new things💻💾💡💡
+</p>
