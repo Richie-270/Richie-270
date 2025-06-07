@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
- i am ricardo moreno a web front end student passionate about exploring and creating new things💻💾💡💡
+I am Ricardo Moreno, a web front-end student passionate about exploring and creating new things.💻💾💡💡
 </p>
