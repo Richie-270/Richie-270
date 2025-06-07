@@ -8,9 +8,9 @@
 I am Ricardo Moreno, a web front-end student passionate about exploring and creating new things.💻💾💡💡
 </p>
 
-Myhobbies = [
-				'art marcial',
-				'Watching Anime',
-				'play guitar'
-				'learn programming'
-			]
+MyHobbies = [
+* Learn programming📖,
+* art marcial🥋,
+* play guitar🎸,
+* watch anime and series📽️📺,
+]
