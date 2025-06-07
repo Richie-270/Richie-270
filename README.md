@@ -3,3 +3,4 @@
 
   <img src="https://media.tenor.com/WXH0L1pRwcUAAAAC/kobayashi-write.gif" alt="Kobayashi escribiendo" width="300">
 
+![kobayashi](https://github.com/user-attachments/assets/d3e2cb25-adbf-4d4f-9c3e-b54da713747d)
